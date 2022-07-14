@@ -9,6 +9,7 @@ red
 yellow
 unicorn
 indigo
+My edit!
 These are the color of rainbow.
 and the unicorn
 star
