@@ -1,12 +1,13 @@
 The Rainbow and the unicorn and the star
 
-Blue
-purple
-Green
+Red 
 Orange
+Yellow
+Green
+Blue
+Purple
 Pink
-red
-yellow
+
 unicorn
 indigo
 These are the color of rainbow.
